@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-slim
-LABEL author="Jijo Sunny" email="jijosunny90@gmail.com"
+LABEL author="jijosg"
 LABEL version="0.1"
 
 ENV DAEMON_RUN=true
